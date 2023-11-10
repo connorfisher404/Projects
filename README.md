@@ -1,4 +1,4 @@
-# Projects
+# Applicable Projects
 1. Language Tranlator: A simple gui which incorpriates STT and a language model to translate the language. No need to specify input language. The models are very accurate. 
 
 
